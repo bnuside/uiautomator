@@ -1,6 +1,6 @@
 uiautomator
 ===========
-
+ 
 [![Join the chat at https://gitter.im/xiaocong/uiautomator](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/xiaocong/uiautomator?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [![MIT License](https://img.shields.io/github/license/xiaocong/uiautomator.svg)](http://opensource.org/licenses/MIT)
